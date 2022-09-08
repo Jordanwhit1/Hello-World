@@ -1,0 +1,27 @@
+body{
+    background-color: #94B0DA;
+    font-family: didot, serif;
+    text-align: center;
+}
+.bigHead{
+    align-content: center;
+}
+
+
+.myPhoto{
+    align-content: center;
+}
+
+.introductionTable {
+    border: 5px #16262e;
+    alignment: center;
+}
+.Java{
+    height: 70px;
+    width: 70px;
+}
+.AWS{
+    height: 70px;
+    width: 70px;
+}
+
